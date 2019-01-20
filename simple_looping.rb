@@ -30,6 +30,7 @@ def while_iterator(number_of_times)
   counter = 1
   while counter < 7
     puts "#{phrase}"
+    counter += 1
 
 end
 
