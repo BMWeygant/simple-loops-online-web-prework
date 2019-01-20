@@ -55,4 +55,5 @@ def for_iterator(number_of_times)
   counter = 0..7
   for count in counter
     puts "#{phrase}"
+  end
 end
